@@ -7,7 +7,13 @@ A curated list of papers exploring the integration of Large Language Models (LLM
 > This list is a work in progress. If you have any suggestions or would like to add your own paper, please feel free to open an issue or submit a pull request!
 
 ## Table of Contents
-
+* [Survey](#survey)
+* [Model Generation](#model-generation)
+* [Model Completion](#model-completion)
+* [Domain Specific Languages](#domain-specific-languages)
+* [Benchmarks](#benchmarks)
+* [Requirements](#requirements)
+* [MDE4LLM](#mde4llm)
 
 ## Papers
 ### Survey
@@ -121,3 +127,12 @@ Sept., 2024
 SLE 2022. ([link](https://dl.acm.org/doi/10.1145/3567512.3567534))
 
 Dec. 2022
+
+
+### MDE4LLM
+#### Model-Driven Prompt Engineering
+*Robert Clarisó, Jordi Cabot*
+
+MODELS 2023. ([link](https://ieeexplore.ieee.org/document/10343974))
+
+Oct., 2023
